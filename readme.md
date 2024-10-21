@@ -45,14 +45,3 @@ git clone https://github.com/username/Manajemen_organisasi.git
 3. Untuk mengelola data anggota, akses halaman admin anggota (`admin_anggota.php`).
 4. Klik pada jumlah anggota di halaman utama untuk melihat daftar anggota suatu organisasi.
 
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini, buat perubahan, dan ajukan pull request.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## Kontak
-
-Jika Anda memiliki pertanyaan atau masukan, silakan hubungi [nama Anda] di [alamat email Anda].
